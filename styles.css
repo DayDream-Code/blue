@@ -94,6 +94,14 @@
   font-size: 100px;
 }
 
+#mid12-container {
+  background-color: #000249;
+  text-align: center;
+  padding-top: 30%;
+  padding-bottom: 30%;
+  font-size: 100px;
+}
+
 #footer {
   background-color: #235784;
   text-align: center;
@@ -111,3 +119,8 @@
 .quack {
   font-size: 25%;
 }
+
+.o {
+color: white;
+}
+
